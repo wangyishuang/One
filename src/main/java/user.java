@@ -1,4 +1,5 @@
 public class user {
-String name;
-String password;
+    int id;
+    String name;
+    String password;
 }
